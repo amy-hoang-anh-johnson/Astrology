@@ -62,3 +62,28 @@ public class BirthChart {
   // Calculate the position of Jupiter at the given date and time
   public static double calculateJupiterPosition(Calendar calendar) {
     // TODO
+  }
+  
+  // Calculate the position of Saturn at the given date and time
+  public static double calculateSaturnPosition(Calendar calendar) {
+    // TODO
+  }
+  
+    // Calculate the position of Uranus at the given date and time
+  public static double calculateUranusPosition(Calendar calendar) {
+    // TODO
+  }
+  
+  // Calculate the position of Neptune at the given date and time
+  public static double calculateNeptunePosition(Calendar calendar) {
+    // TODO
+  }
+  
+    // Calculate the position of Pluto at the given date and time
+  public static double calculatePlutoPosition(Calendar calendar) {
+    // TODO
+  }
+  
+  
+  
+  
