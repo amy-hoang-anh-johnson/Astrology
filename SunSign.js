@@ -26,5 +26,3 @@ function astrologyCalculator(day, month) {
   }
 }
 
-console.log(astrologyCalculator(26, 7));
-console.log(ast
